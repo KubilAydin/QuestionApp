@@ -7,7 +7,7 @@ Bu projede kullanılan frameworkler ve programlama dilleri aşağıdaki gibidir.
 * Javascript 
 
 ## 🔭 Netlify ile yayınlandı.
-- 
+- [Netlify Link](https://brilliant-mochi-f213d3.netlify.app)
 
 ## 🎨 Ekran Görüntüleri
 - Giriş Ekranı
